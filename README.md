@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d" alt="Banner" width="70%">
+  <img src="/icons.png" alt="Banner" width="70%">
 </p>
 
 ---
