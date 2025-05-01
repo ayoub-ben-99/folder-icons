@@ -1,30 +1,17 @@
-# folder-icons
-![banner copy](https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d)
+<h1 align="center">📁 Folder Icons</h1>
 
-Folder icons I made in windows 11 style. Visit my [icon website](https://www.sameerasw.com/icons/categories) to browse and download.
+<p align="center">
+  A large collection of custom PNG folder icons for various apps, games, systems, tools, and platforms. You can use them to personalize your system or organize your files visually.
+</p>
 
-<a href="https://star-history.com/#sameerasw/folder-icons&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sameerasw/folder-icons&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sameerasw/folder-icons&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sameerasw/folder-icons&type=Date" />
- </picture>
-</a>
+<p align="center">
+  <img src="https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d" alt="Banner" width="70%">
+</p>
 
-If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 500+ stars ⭐
+---
 
-### How to apply?           
-[***Windows***](https://t.me/tidwib/81) | 
-[***Gnome***](https://t.me/tidwib/84) | 
-[***Drive Icons***](https://t.me/tidwib/344)
+## 🔹 Icons Preview
 
-### macOS icons?
-[sameerasw/mac-icons](https://github.com/sameerasw/mac-icons)
-
-> If you are contributing icons, Please make sure to provide both the .ico and the .png files of the same icon in the same naming format located in each respected directory making the automated process of adding to the icon website easy and flawless :)
-And thank you <3
-
-<!-- ICONS_GRID_START -->
 <img src="/PNGs/adb.png" width="50" height="50"> <img src="/PNGs/intel.png" width="50" height="50"> <img src="/PNGs/windows-alt02.png" width="50" height="50"> <img src="/PNGs/voltageos.png" width="50" height="50"> <img src="/PNGs/java.png" width="50" height="50"> <img src="/PNGs/ryzen.png" width="50" height="50"> <img src="/PNGs/ps3.png" width="50" height="50"> <img src="/PNGs/pokemon.png" width="50" height="50"> <img src="/PNGs/amd.png" width="50" height="50"> <img src="/PNGs/myanimelist.png" width="50" height="50">
 <img src="/PNGs/font.png" width="50" height="50"> <img src="/PNGs/excel.png" width="50" height="50"> <img src="/PNGs/root.png" width="50" height="50"> <img src="/PNGs/samsung.png" width="50" height="50"> <img src="/PNGs/lawnchair-alt.png" width="50" height="50"> <img src="/PNGs/sound.png" width="50" height="50"> <img src="/PNGs/gimp.png" width="50" height="50"> <img src="/PNGs/Redbubble.png" width="50" height="50"> <img src="/PNGs/hp.png" width="50" height="50"> <img src="/PNGs/android-text.png" width="50" height="50">
 <img src="/PNGs/epic-games.png" width="50" height="50"> <img src="/PNGs/windows-1.png" width="50" height="50"> <img src="/PNGs/gtav.png" width="50" height="50"> <img src="/PNGs/fiveM.png" width="50" height="50"> <img src="/PNGs/garuda-linux.png" width="50" height="50"> <img src="/PNGs/package.png" width="50" height="50"> <img src="/PNGs/google-pixel5.png" width="50" height="50"> <img src="/PNGs/kde-connect.png" width="50" height="50"> <img src="/PNGs/degree.png" width="50" height="50"> <img src="/PNGs/heart.png" width="50" height="50">
@@ -62,4 +49,25 @@ And thank you <3
 <img src="/PNGs/playstation.png" width="50" height="50"> <img src="/PNGs/cherishos.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-kubuntu.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-fedora.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-ubuntu-studio.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-deepin.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-backups.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-garuda-linux.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-open-suse.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-centos.png" width="50" height="50">
 <img src="/PNGs/drive_icons/drive-videos.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-gentoo.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-pictures.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-linux-mint.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-retroarch.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-garuda-linux-dragonized.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-manjaro.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-music.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-zorin.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-coding.png" width="50" height="50">
 <img src="/PNGs/drive_icons/drive-kde-connect.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-arch.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-minecraft.png" width="50" height="50">
-<!-- ICONS_GRID_END -->
+
+---
+
+## 📂 How to Use
+
+1. Download the icons from the `PNGs/` folder.
+2. Right-click on your folder > **Properties** > **Customize** > **Change Icon**.
+3. Browse and select your preferred PNG icon (you may need to convert it to `.ico` for Windows).
+4. Apply and enjoy your new custom folder look!
+
+---
+
+## 📢 Contribution
+
+Feel free to submit new icons or suggest improvements via pull requests or issues.
+
+---
+
+## 📄 License
+
+This project is under the [MIT License](LICENSE).
+
